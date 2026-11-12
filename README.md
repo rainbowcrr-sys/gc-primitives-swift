@@ -1,1 +1,121 @@
-IyBnYy1wcmltaXRpdmVzIMK3IFN3aWZ0IOeJiAoKPiDkuK3mlocgwrcgW0VuZ2xpc2hdKFJFQURNRS5lbi5tZCkKCuS4jiBKYXZhIC8gQysrIC8gUHl0aG9uIC8gUnVzdCAvIEdvIC8gWmlnIOWQjOS4gOWll+amguW/teWlkee6pueahCBTd2lmdCDnp7vmpI3vvIzooYzkuLrop4TojIPop4Hku5PlupPmoLkgW1NQRUMubWRdKGh0dHBzOi8vZ2l0aHViLmNvbS9yYWluYm93Y3JyLXN5cy9yYmMtbW9ub3JlcG8vYmxvYi9tYWluL1NQRUMubWQpIOesrCAxMS4xIOiKgu+8iFtFbmdsaXNoXShodHRwczovL2dpdGh1Yi5jb20vcmFpbmJvd2Nyci1zeXMvcmJjLW1vbm9yZXBvL2Jsb2IvbWFpbi9TUEVDLmVuLm1kKe+8ieOAggoKIyMg5Li65LuA5LmIIFN3aWZ0IOS5n+mcgOimgeWvueixoeaxoO+8mkFSQ++8jOS4jeaYryBHQwoKU3dpZnQgKirmsqHmnInlnoPlnL7lm57mlLYqKu+8jOeUqOeahOaYryAqKkFSQ++8iOiHquWKqOW8leeUqOiuoeaVsO+8iSoq77ya5a+56LGh5byV55So5b2S6Zu256uL5Y2z6YeK5pS+44CC5omA5Lul6L+Z6YeM5LiN5YaZ44CM55yBIEdD44CN77yM5Y+q5YaZ77yaCgotIOWHj+WwkeWghuS4iueahCBgYWxsb2NgIC8gYGRlYWxsb2NgIOasoeaVsAotIOWHj+WwkemrmOmikei3r+W+hOS4iiByZXRhaW4gLyByZWxlYXNlIOeahOW8leeUqOiuoeaVsOaTjeS9nAotIOWkjeeUqOWQjue8k+WtmOWxgOmDqOaAp+abtOWlve+8jOS4lOWkjeeUqOeahOaYr+WQjOS4gOS4quW8leeUqO+8jOmBv+WFjeWPjeWkjeeUs+ivtwoKKipgVGAg5b+F6aG75piv5byV55So57G75Z6L77yIYFQ6IEFueU9iamVjdGDvvIkqKuOAglN3aWZ0IOeahCBnZXR0ZXIg6L+U5Zue5YC857G75Z6L55qEKirmi7fotJ0qKu+8jOWmguaenOWFgeiuuCBgc3RydWN0YO+8jOiwg+eUqOaWueWvuSBgbGVhc2UudmFsdWVgIOeahOS/ruaUueS8mumdmem7mOS4ouWkseOAgeagueacrOWbnuS4jeWIsOaxoOmHjOOAgue6puadn+aIkCBjbGFzcyDmraPlpb3lr7nlupTjgIzloIblr7nosaHjgI3or63kuYnvvIzkuZ/orqkgYHJlY3ljbGVyYCDog73ljp/lnLDlpI3kvY3jgIIKCiMjIOWvvOWFpQoKU3dpZnRQTSDmmK8qKumbtuazqOWGjOOAgembtuWHreaNrioq55qE5YiG5Y+R77ya5LiA5Liq5YWs5byAIEdpdCDku5PlupMgKyBgUGFja2FnZS5zd2lmdGAgKyDor63kuYnljJYgdGFnIOWwseWkn+S6huOAggoKYGBgc3dpZnQKLy8gUGFja2FnZS5zd2lmdApkZXBlbmRlbmNpZXM6IFsKICAgIC5wYWNrYWdlKAogICAgICAgIHVybDogImh0dHBzOi8vZ2l0aHViLmNvbS9yYWluYm93Y3JyLXN5cy9yYmMtbW9ub3JlcG8uZ2l0IiwKICAgICAgICAudXBUb05leHRNYWpvcihmcm9tOiAiMC4xLjAiKQogICAgKQpdLAp0YXJnZXRzOiBbCiAgICAudGFyZ2V0KG5hbWU6ICJZb3VyQXBwIiwgZGVwZW5kZW5jaWVzOiBbCiAgICAgICAgLnByb2R1Y3QobmFtZTogIkdDUHJpbWl0aXZlcyIsIHBhY2thZ2U6ICJyYmMtbW9ub3JlcG8iKQogICAgXSkKXQpgYGAKCj4gKiptb25vcmVwbyDlrZDnm67lvZXor7TmmI4qKu+8mlN3aWZ0UE0g55qEIGAucGFja2FnZSh1cmw6KWAg5oyH5ZCR5LuT5bqT5qC577yM6KaB5rGCIGBQYWNrYWdlLnN3aWZ0YCDlnKjmoLnjgILmnKzniYjmlL7lnKggYHN3aWZ0L2djLXByaW1pdGl2ZXMvYO+8jOebtOaOpeS+nei1luagueS7k+W6k+mcgOimgeaKiuivpeebruW9leWBmuaIkOeLrOeriyBHaXQg5LuT5bqT77yM5oiW55So5pys5ZywIHBhdGgg5L6d6LWW44CC6aaW6L2u5YWI5Lul44CM5Y+v54us56uLIGBzd2lmdCB0ZXN0YCDnmoTljIXjgI3kuqTku5jvvIzliIblj5HmlrnlvI/lnKjlj5HniYjml7blho3lrprvvIjop4HmlofmnKvvvInjgIIKCiMjIOeUqOazlQoKYGBgc3dpZnQKaW1wb3J0IEdDUHJpbWl0aXZlcwoKZmluYWwgY2xhc3MgQnVmZmVyIHsKICAgIHZhciBieXRlczogW1VJbnQ4XSA9IFtdCn0KCmxldCBwb29sID0gdHJ5IFBvb2w8QnVmZmVyPigKICAgIGNhcGFjaXR5OiAzMiwKICAgIGZhY3Rvcnk6IHsgQnVmZmVyKCkgfSwKICAgIHJlY3ljbGVyOiB7IGJ1ZiBpbiBidWYuYnl0ZXMucmVtb3ZlQWxsKCkgfSAgIC8vIOW9kui/mOaXtuWkjeS9jQopCgpsZXQgbGVhc2UgPSB0cnkgcG9vbC5ib3Jyb3coKQpkZWZlciB7IHRyeT8gbGVhc2UuY2xvc2UoKSB9ICAgICAgICAgICAgICAgICAgICAgLy8gQzHvvJrlv4XpobvmmL7lvI/lvZLov5gKdHJ5IGxlYXNlLnZhbHVlLmJ5dGVzLmFwcGVuZChjb250ZW50c09mOiBbMSwgMiwgM10pCnByaW50KHRyeSBsZWFzZS52YWx1ZS5ieXRlcykKCnRyeSBwb29sLmFzc2VydE5vQWN0aXZlTGVhc2VzKCkgICAgICAgICAgICAgICAgICAvLyDmtYvor5XmnJ/miorms4TmvI/ovazmiJDplJnor68KYGBgCgpgbGVhc2UudmFsdWVgIOaYryB0aHJvd2luZyBnZXR0ZXLvvJvlhbPpl63lkI7lho3or7vmipsgYFBvb2xFcnJvci5sZWFzZUNsb3NlZGDjgIIKCiMjIOWuieWFqOWlkee6pu+8iEMx4oCTQzXvvIkKCnwg5aWR57qmIHwg5a6e546wIHwg6L+d5Y+N5pe2IHwKfCAtLS0gfCAtLS0gfCAtLS0gfAp8IEMxIOaYvuW8j+W9kui/mCB8IGBsZWFzZS5jbG9zZSgpYO+8jOaOqOiNkCBgZGVmZXIgeyB0cnk/IGxlYXNlLmNsb3NlKCkgfWAgfCDlv5jorrAgY2xvc2Ug5pe2IGBkZWluaXRgIOWFnOW6le+8mioq57uT566X6K6h5pWw44CB55u05o6l5Lii5byD5a+56LGhKirvvIznu53kuI3lm57msaAgfAp8IEMyIOWFs+mXreWQjuWAn+eUqCB8IGBwb29sLmNsb3NlKClgIOaLkue7nSBgYm9ycm93KClg77yM56m66Zey5a+56LGh56uL5Y2z5riF56m6IHwgYFBvb2xFcnJvci5wb29sQ2xvc2VkYCB8CnwgQzMg5pyJ55WMIHwgYE5TTG9ja2Ag5L+d5oqk55qE5pyJ55WM5qCI77yM5LiK6ZmQIGBjYXBhY2l0eWDvvIjpu5jorqQgMTbvvIkgfCDigJQgfAp8IEM0IOW9kui/mOWkjeS9jSB8IGByZWN5Y2xlcmAg5q+P5qyh5b2S6L+Y6LCD55So5LiA5qyhIHwg5oqb6ZSZIOKGkiAqKuWvueixoeS4ouW8g+OAgemUmeivr+mAj+S8oOOAgeiuoeaVsOeFp+W4uOe7k+eulyoq77yM57ud5LiN5Zue5rGgIHwKfCBDNSDlvLrliLbor6/nlKjmo4DmtYsgfCDlj4zph40gY2xvc2XjgIHlhbPpl63lkI7or7sgYHZhbHVlYOOAgeW3peWOgui/lOWbniBuaWzjgIFgY2FwYWNpdHkgPD0gMGAgfCDkuIDlvosgYFBvb2xFcnJvcmDvvIwqKuaXoOW8gOWFs+OAgeS4jeeUqCBgZmF0YWxFcnJvcmAqKiB8CgoqKuiuoeaVsOivreS5iSoq77yaYHJldHVybkNvdW50IC8gYWN0aXZlYCDlnKggYGNsb3NlKClgIOacgOW8gOWktOe7k+eul++8jOaJgOS7pSBgcmVjeWNsZXJgIOaKm+mUmeS5n+S4jeS8mueVmeS4i+OAjOW5veeBtea0u+i3g+enn+e6puOAjeOAggoKKipkZWluaXQg5YWc5bqV55qE5Y+W6IiNKirvvJpTd2lmdCDnmoQgYGRlaW5pdGAg5LiN6IO9IGB0aHJvd3Ng77yM5peg5rOV5Zyo5YWc5bqV6Lev5b6E6YeM5a6J5YWo5omn6KGM5Y+v6IO95oqb6ZSZ55qEIGByZWN5Y2xlcmDjgILmiYDku6Xlv5jorrAgYGNsb3NlKClgIOeahOWvueixoSoq55u05o6l5Lii5byDKirogIzkuI3lpI3nlKjigJTigJTorqHmlbDku43nhLbnsr7noa7vvIzohI/lr7nosaHnu53kuI3kvJrliLDkuIvkuIDkuKrlgJ/nlKjogIXmiYvph4zjgILov5nmmK/kuI4gQysrIFJBSUkg55qE5YWz6ZSu5beu5byC77yM5YaZ6L+bIFNQRUMgMTEuMuOAggoKIyMg5bm25Y+R5qih5Z6L77ya6ZSB5L+d5oqk5Y+Y5L2TCgpTd2lmdCDmsqHmnInnqLPlrprnmoTot6jlubPlj7AgdGhyZWFkLWxvY2FsIEFQSe+8jOaJgOS7peacrOeJiOeUqCoq5Y2V5LiqIGBOU0xvY2tgIOS/neaKpOeahOacieeVjOagiCArIOmUgeWGheiuoeaVsCoq77yM6ICM5LiN5piv5q+P57q/56iL5LiA5Lu954q25oCB44CC6Leo57q/56iL5L2/55So5ZCM5LiA5LiqIGBMZWFzZWAg5LiN5YGa6L+Q6KGM5pe25qOA5rWL77yM55Sx5paH5qGj57qm5a6a44CM56ef57qm5Y+q5b2S5YCf55So5a6D55qE57q/56iL5L2/55So44CN44CCQ0kg6YeM55SoIGBEaXNwYXRjaFF1ZXVlLmNvbmN1cnJlbnRQZXJmb3JtYCAxMDAg5qyh5bm25Y+R5YCf6L+Y6aqM6K+B6K6h5pWw57K+56Gu44CCCgojIyDor4rmlq0gQVBJCgp8IEphdmEgfCBTd2lmdCB8CnwgLS0tIHwgLS0tIHwKfCBgYm9ycm93KClgIHwgYGJvcnJvdygpIHRocm93cyAtPiBMZWFzZTxUPmAgfAp8IGBjYXBhY2l0eSgpYCB8IGBjYXBhY2l0eWAgLyBgc3RhdHMoKS5jYXBhY2l0eWAgfAp8IGBpZGxlQ291bnQoKWAgfCBgc3RhdHMoKS5pZGxlYCB8CnwgYGFjdGl2ZUxlYXNlcygpYCB8IGBzdGF0cygpLmFjdGl2ZWAgfAp8IGBib3Jyb3dDb3VudCgpYCAvIGByZXR1cm5Db3VudCgpYCB8IGBzdGF0cygpLmJvcnJvd0NvdW50YCAvIGAucmV0dXJuQ291bnRgIHwKfCBgYXNzZXJ0Tm9BY3RpdmVMZWFzZXMoKWAgfCBgYXNzZXJ0Tm9BY3RpdmVMZWFzZXMoKSB0aHJvd3NgIHwKCuWPpuaciSBgc3RhdHMoKS5jcmVhdGVkYOOAgWBzdGF0cygpLmNsb3NlZGDjgIFgbGVhc2UucmV0dXJuZWRg44CCCgojIyDpqozor4EKCmBgYGJhc2gKY2Qgc3dpZnQvZ2MtcHJpbWl0aXZlcwpzd2lmdCB0ZXN0CmBgYAoKQ0kg5ZyoICoqbWFjT1PvvIhYY29kZSBTd2lmdO+8ieS4jiBVYnVudHUgTGludXjvvIhTd2lmdCA1Ljkr77yJKiog5Lik5aWX546v5aKD5ZCE6LeR5LiA6YGN77yM5YWxIDEyIOmhuSBYQ1Rlc3TvvIzopobnm5bkuIrooajmr4/kuIDmnaHlpZHnuqYgKyDlubblj5EgKyBkZWluaXQg5YWc5bqV44CCCgojIyDliIblj5HvvIhgMC4xLjBgIOW3suWPkeW4g++8iQoKKipTd2lmdFBNIOS+nei1lioq77yI5o6o6I2Q77yJ77yaCgpgYGBzd2lmdAoucGFja2FnZSh1cmw6ICJodHRwczovL2dpdGh1Yi5jb20vcmFpbmJvd2Nyci1zeXMvZ2MtcHJpbWl0aXZlcy1zd2lmdC5naXQiLCBmcm9tOiAiMC4xLjAiKQpgYGAKCueLrOeri+WIhuWPkeS7k+W6kyBodHRwczovL2dpdGh1Yi5jb20vcmFpbmJvd2Nyci1zeXMvZ2MtcHJpbWl0aXZlcy1zd2lmdCDnmoTmoLnnm67lvZXmlL4gYFBhY2thZ2Uuc3dpZnRg77yMdGFnIOS4uiBgdjAuMS4wYOOAggoKLSAqKua6kOeggeS4u+WJr+acrCoq77ya5pys55uu5b2VIGBzd2lmdC9nYy1wcmltaXRpdmVzL2DvvIxDSSDlnKggbWFjT1MgKyBVYnVudHUg5ZCE6LeRIDEyIOmhuSBYQ1Rlc3QKLSAqKm1vbm9yZXBvIOWPkeW4gyB0YWcqKu+8mmBzd2lmdC9nYy1wcmltaXRpdmVzL3YwLjEuMGDvvIxSZWxlYXNlIOmZhOa6kOeggSB0YXJiYWxsCi0gKirpqozor4HpobUqKu+8mmh0dHBzOi8vc3dpZnRwYWNrYWdlaW5kZXguY29tL3JhaW5ib3djcnItc3lzL2djLXByaW1pdGl2ZXMtc3dpZnQg77yI6aaW5qyh5pS25b2V5Y+v5ZyoIGh0dHBzOi8vc3dpZnRwYWNrYWdlaW5kZXguY29tL2FkZC1hLXBhY2thZ2Ug5o+Q5Lqk77yJCgo+ICoq5Li65LuA5LmI5aSa5LiA5Liq5LuT5bqTKirvvJpTd2lmdFBNIOimgeaxgiBgUGFja2FnZS5zd2lmdGAg5Zyo5LuT5bqT5qC577yM5LiU54mI5pysIHRhZyDlj6rog73mmK/nuq/or63kuYnljJbniYjmnKzvvIhgdjAuMS4wYO+8ie+8jOS4jeiupCBgc3dpZnQvZ2MtcHJpbWl0aXZlcy92MC4xLjBgIOi/meenjeWtkOebruW9leWJjee8gO+8m+iAjCBgdjAuMS4wYCDlt7LooqsgSmF2YSDpppblj5HljaDnlKjvvIzkuI3og73lpI3nlKjjgILkuKTlpITku6PnoIHlhoXlrrnkuIDoh7TvvIzlj5HniYjml7blkIzmraXjgIIKCumbtuazqOWGjOOAgembtiB0b2tlbuOAgembtuWHreaNruOAggoK5q+P5LiqIE1hcmtkb3duIOmDveacieS4reiLseWPjOivreeJiOacrO+8jOiLseaWh+eJiOS7pSBgLmVuLm1kYCDnu5PlsL7jgIIK
+# gc-primitives · Swift 版
+
+> 中文 · [English](README.en.md)
+
+与 Java / C++ / Python / Rust / Go / Zig 同一套概念契约的 Swift 移植，行为规范见仓库根 [SPEC.md](https://github.com/rainbowcrr-sys/rbc-monorepo/blob/main/SPEC.md) 第 11.1 节（[English](https://github.com/rainbowcrr-sys/rbc-monorepo/blob/main/SPEC.en.md)）。
+
+## 为什么 Swift 也需要对象池：ARC，不是 GC
+
+Swift **没有垃圾回收**，用的是 **ARC（自动引用计数）**：对象引用归零立即释放。所以这里不写「省 GC」，只写：
+
+- 减少堆上的 `alloc` / `dealloc` 次数
+- 减少高频路径上 retain / release 的引用计数操作
+- 复用后缓存局部性更好，且复用的是同一个引用，避免反复申请
+
+**`T` 必须是引用类型（`T: AnyObject`）**。Swift 的 getter 返回值类型的**拷贝**，如果允许 `struct`，调用方对 `lease.value` 的修改会静默丢失、根本回不到池里。约束成 class 正好对应「堆对象」语义，也让 `recycler` 能原地复位。
+
+## 导入
+
+SwiftPM 是**零注册、零凭据**的分发：一个公开 Git 仓库 + `Package.swift` + 语义化 tag 就够了。
+
+```swift
+// Package.swift
+dependencies: [
+    .package(
+        url: "https://github.com/rainbowcrr-sys/rbc-monorepo.git",
+        .upToNextMajor(from: "0.1.0")
+    )
+],
+targets: [
+    .target(name: "YourApp", dependencies: [
+        .product(name: "GCPrimitives", package: "rbc-monorepo")
+    ])
+]
+```
+
+> **monorepo 子目录说明**：SwiftPM 的 `.package(url:)` 指向仓库根，要求 `Package.swift` 在根。本版放在 `swift/gc-primitives/`，直接依赖根仓库需要把该目录做成独立 Git 仓库，或用本地 path 依赖。首轮先以「可独立 `swift test` 的包」交付，分发方式在发版时再定（见文末）。
+
+## 用法
+
+```swift
+import GCPrimitives
+
+final class Buffer {
+    var bytes: [UInt8] = []
+}
+
+let pool = try Pool<Buffer>(
+    capacity: 32,
+    factory: { Buffer() },
+    recycler: { buf in buf.bytes.removeAll() }   // 归还时复位
+)
+
+let lease = try pool.borrow()
+defer { try? lease.close() }                     // C1：必须显式归还
+try lease.value.bytes.append(contentsOf: [1, 2, 3])
+print(try lease.value.bytes)
+
+try pool.assertNoActiveLeases()                  // 测试期把泄漏转成错误
+```
+
+`lease.value` 是 throwing getter；关闭后再读抛 `PoolError.leaseClosed`。
+
+## 安全契约（C1–C5）
+
+| 契约 | 实现 | 违反时 |
+| --- | --- | --- |
+| C1 显式归还 | `lease.close()`，推荐 `defer { try? lease.close() }` | 忘记 close 时 `deinit` 兜底：**结算计数、直接丢弃对象**，绝不回池 |
+| C2 关闭后借用 | `pool.close()` 拒绝 `borrow()`，空闲对象立即清空 | `PoolError.poolClosed` |
+| C3 有界 | `NSLock` 保护的有界栈，上限 `capacity`（默认 16） | — |
+| C4 归还复位 | `recycler` 每次归还调用一次 | 抛错 → **对象丢弃、错误透传、计数照常结算**，绝不回池 |
+| C5 强制误用检测 | 双重 close、关闭后读 `value`、工厂返回 nil、`capacity <= 0` | 一律 `PoolError`，**无开关、不用 `fatalError`** |
+
+**计数语义**：`returnCount / active` 在 `close()` 最开头结算，所以 `recycler` 抛错也不会留下「幽灵活跃租约」。
+
+**deinit 兜底的取舍**：Swift 的 `deinit` 不能 `throws`，无法在兜底路径里安全执行可能抛错的 `recycler`。所以忘记 `close()` 的对象**直接丢弃**而不复用——计数仍然精确，脏对象绝不会到下一个借用者手里。这是与 C++ RAII 的关键差异，写进 SPEC 11.2。
+
+## 并发模型：锁保护变体
+
+Swift 没有稳定的跨平台 thread-local API，所以本版用**单个 `NSLock` 保护的有界栈 + 锁内计数**，而不是每线程一份状态。跨线程使用同一个 `Lease` 不做运行时检测，由文档约定「租约只归借用它的线程使用」。CI 里用 `DispatchQueue.concurrentPerform` 100 次并发借还验证计数精确。
+
+## 诊断 API
+
+| Java | Swift |
+| --- | --- |
+| `borrow()` | `borrow() throws -> Lease<T>` |
+| `capacity()` | `capacity` / `stats().capacity` |
+| `idleCount()` | `stats().idle` |
+| `activeLeases()` | `stats().active` |
+| `borrowCount()` / `returnCount()` | `stats().borrowCount` / `.returnCount` |
+| `assertNoActiveLeases()` | `assertNoActiveLeases() throws` |
+
+另有 `stats().created`、`stats().closed`、`lease.returned`。
+
+## 验证
+
+```bash
+cd swift/gc-primitives
+swift test
+```
+
+CI 在 **macOS（Xcode Swift）与 Ubuntu Linux（Swift 5.9+）** 两套环境各跑一遍，共 12 项 XCTest，覆盖上表每一条契约 + 并发 + deinit 兜底。
+
+## 分发（`0.1.0` 已发布）
+
+**SwiftPM 依赖**（推荐）：
+
+```swift
+.package(url: "https://github.com/rainbowcrr-sys/gc-primitives-swift.git", from: "0.1.0")
+```
+
+独立分发仓库 https://github.com/rainbowcrr-sys/gc-primitives-swift 的根目录放 `Package.swift`，tag 为 `v0.1.0`。
+
+- **源码主副本**：本目录 `swift/gc-primitives/`，CI 在 macOS + Ubuntu 各跑 12 项 XCTest
+- **monorepo 发布 tag**：`swift/gc-primitives/v0.1.0`，Release 附源码 tarball
+- **验证页**：https://swiftpackageindex.com/rainbowcrr-sys/gc-primitives-swift （首次收录可在 https://swiftpackageindex.com/add-a-package 提交）
+
+> **为什么多一个仓库**：SwiftPM 要求 `Package.swift` 在仓库根，且版本 tag 只能是纯语义化版本（`v0.1.0`），不认 `swift/gc-primitives/v0.1.0` 这种子目录前缀；而 `v0.1.0` 已被 Java 首发占用，不能复用。两处代码内容一致，发版时同步。
+
+零注册、零 token、零凭据。
+
+每个 Markdown 都有中英双语版本，英文版以 `.en.md` 结尾。

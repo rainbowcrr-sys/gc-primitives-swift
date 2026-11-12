@@ -1,1 +1,225 @@
-aW1wb3J0IFhDVGVzdAppbXBvcnQgRm91bmRhdGlvbgpAdGVzdGFibGUgaW1wb3J0IEdDUHJpbWl0aXZlcwoKcHJpdmF0ZSBmaW5hbCBjbGFzcyBCb3ggewogICAgdmFyIGRhdGE6IFtTdHJpbmddID0gW10KfQoKcHJpdmF0ZSBlbnVtIFJlc2V0Qm9vbTogRXJyb3IsIEVxdWF0YWJsZSB7CiAgICBjYXNlIGZhaWxlZAp9Cgpwcml2YXRlIGZpbmFsIGNsYXNzIENvdW50ZXIgewogICAgdmFyIGNyZWF0ZWQgPSAwCiAgICB2YXIgcmVzZXRzID0gMAp9CgpmaW5hbCBjbGFzcyBQb29sVGVzdHM6IFhDVGVzdENhc2UgewoKICAgIHByaXZhdGUgZnVuYyBtYWtlUG9vbCgKICAgICAgICBjYXBhY2l0eTogSW50ID0gNCwKICAgICAgICBmYWN0b3J5OiAoKCkgLT4gQm94Pyk/ID0gbmlsLAogICAgICAgIHJlY3ljbGVyOiAoKEJveCkgdGhyb3dzIC0+IFZvaWQpPyA9IG5pbAogICAgKSB0aHJvd3MgLT4gKFBvb2w8Qm94PiwgQ291bnRlcikgewogICAgICAgIGxldCBjb3VudGVyID0gQ291bnRlcigpCiAgICAgICAgbGV0IGY6ICgpIC0+IEJveD8gPSBmYWN0b3J5ID8/IHsKICAgICAgICAgICAgY291bnRlci5jcmVhdGVkICs9IDEKICAgICAgICAgICAgcmV0dXJuIEJveCgpCiAgICAgICAgfQogICAgICAgIGxldCByOiAoQm94KSB0aHJvd3MgLT4gVm9pZCA9IHJlY3ljbGVyID8/IHsgYm94IGluCiAgICAgICAgICAgIGNvdW50ZXIucmVzZXRzICs9IDEKICAgICAgICAgICAgYm94LmRhdGEucmVtb3ZlQWxsKCkKICAgICAgICB9CiAgICAgICAgcmV0dXJuICh0cnkgUG9vbDxCb3g+KGNhcGFjaXR5OiBjYXBhY2l0eSwgZmFjdG9yeTogZiwgcmVjeWNsZXI6IHIpLCBjb3VudGVyKQogICAgfQoKICAgIC8vIE1BUks6IEMxIC8gZGlhZ25vc3RpY3MKCiAgICBmdW5jIHRlc3RCb3Jyb3dVc2VDbG9zZUFuZENvdW50ZXJzKCkgdGhyb3dzIHsKICAgICAgICBsZXQgKHBvb2wsIGNvdW50ZXIpID0gdHJ5IG1ha2VQb29sKCkKICAgICAgICBsZXQgbGVhc2UgPSB0cnkgcG9vbC5ib3Jyb3coKQogICAgICAgIGxldCBib3ggPSB0cnkgbGVhc2UudmFsdWUKICAgICAgICBYQ1RBc3NlcnRUcnVlKGJveC5kYXRhLmlzRW1wdHkpCiAgICAgICAgYm94LmRhdGEuYXBwZW5kKCJ4IikKICAgICAgICB0cnkgbGVhc2UuY2xvc2UoKQoKICAgICAgICBsZXQgcyA9IHBvb2wuc3RhdHMoKQogICAgICAgIFhDVEFzc2VydEVxdWFsKHMuYWN0aXZlLCAwKQogICAgICAgIFhDVEFzc2VydEVxdWFsKHMuYm9ycm93Q291bnQsIDEpCiAgICAgICAgWENUQXNzZXJ0RXF1YWwocy5yZXR1cm5Db3VudCwgMSkKICAgICAgICBYQ1RBc3NlcnRFcXVhbChzLmlkbGUsIDEpCiAgICAgICAgWENUQXNzZXJ0RXF1YWwocy5jcmVhdGVkLCAxKQogICAgICAgIFhDVEFzc2VydEVxdWFsKHMuY2FwYWNpdHksIDQpCiAgICAgICAgWENUQXNzZXJ0RmFsc2Uocy5jbG9zZWQpCiAgICAgICAgWENUQXNzZXJ0RXF1YWwoY291bnRlci5jcmVhdGVkLCAxKQogICAgICAgIFhDVEFzc2VydEVxdWFsKGNvdW50ZXIucmVzZXRzLCAxKQogICAgICAgIFhDVEFzc2VydE5vVGhyb3codHJ5IHBvb2wuYXNzZXJ0Tm9BY3RpdmVMZWFzZXMoKSkKICAgIH0KCiAgICAvLyBNQVJLOiBDMyByZXVzZSBpcyBib3VuZGVkIGFuZCByZXNldCB3b3JrcwoKICAgIGZ1bmMgdGVzdFJldXNlQ2FsbHNGYWN0b3J5T25seU9uY2UoKSB0aHJvd3MgewogICAgICAgIGxldCAocG9vbCwgY291bnRlcikgPSB0cnkgbWFrZVBvb2woKQogICAgICAgIGZvciBpIGluIDAuLjwxMCB7CiAgICAgICAgICAgIGxldCBsZWFzZSA9IHRyeSBwb29sLmJvcnJvdygpCiAgICAgICAgICAgIGxldCBib3ggPSB0cnkgbGVhc2UudmFsdWUKICAgICAgICAgICAgWENUQXNzZXJ0VHJ1ZShib3guZGF0YS5pc0VtcHR5LCAicm91bmQgXChpKTogcmVjeWNsZXIgZGlkIG5vdCByZXNldCIpCiAgICAgICAgICAgIGJveC5kYXRhLmFwcGVuZCgieCIpCiAgICAgICAgICAgIHRyeSBsZWFzZS5jbG9zZSgpCiAgICAgICAgfQogICAgICAgIFhDVEFzc2VydEVxdWFsKGNvdW50ZXIuY3JlYXRlZCwgMSkKICAgICAgICBYQ1RBc3NlcnRFcXVhbChwb29sLnN0YXRzKCkuYm9ycm93Q291bnQsIDEwKQogICAgICAgIFhDVEFzc2VydEVxdWFsKHBvb2wuc3RhdHMoKS5yZXR1cm5Db3VudCwgMTApCiAgICB9CgogICAgZnVuYyB0ZXN0SWRsZUlzQm91bmRlZEJ5Q2FwYWNpdHkoKSB0aHJvd3MgewogICAgICAgIGxldCAocG9vbCwgXykgPSB0cnkgbWFrZVBvb2woY2FwYWNpdHk6IDIpCiAgICAgICAgLy8g5YWI5ZCM5pe25oyB5pyJIDMyIOS4quenn+e6pu+8m+mhuuW6j+WAn+i/mOaXtuaxoOmHjOawuOi/nOWPquaciSAxIOS4quepuumXsuWvueixoe+8jAogICAgICAgIC8vIOagueacrOa1i+S4jeWIsCBjYXBhY2l0eSDkuIrpmZDjgIIKICAgICAgICB2YXIgbGVhc2VzOiBbTGVhc2U8Qm94Pl0gPSBbXQogICAgICAgIGZvciBfIGluIDAuLjwzMiB7CiAgICAgICAgICAgIGxlYXNlcy5hcHBlbmQodHJ5IHBvb2wuYm9ycm93KCkpCiAgICAgICAgfQogICAgICAgIGZvciBsZWFzZSBpbiBsZWFzZXMgewogICAgICAgICAgICB0cnkgbGVhc2UuY2xvc2UoKQogICAgICAgIH0KICAgICAgICBYQ1RBc3NlcnRFcXVhbChwb29sLnN0YXRzKCkuaWRsZSwgMikKICAgICAgICBYQ1RBc3NlcnRFcXVhbChwb29sLnN0YXRzKCkuYWN0aXZlLCAwKQogICAgfQoKICAgIC8vIE1BUks6IEM0IHJlc2V0IGZhaWx1cmUKCiAgICBmdW5jIHRlc3RSZXNldEZhaWx1cmVEaXNjYXJkc09iamVjdEFuZFByb3BhZ2F0ZXMoKSB0aHJvd3MgewogICAgICAgIGxldCAocG9vbCwgY291bnRlcikgPSB0cnkgbWFrZVBvb2wocmVjeWNsZXI6IHsgXyBpbiB0aHJvdyBSZXNldEJvb20uZmFpbGVkIH0pCiAgICAgICAgZm9yIF8gaW4gMC4uPDYgewogICAgICAgICAgICBsZXQgbGVhc2UgPSB0cnkgcG9vbC5ib3Jyb3coKQogICAgICAgICAgICBYQ1RBc3NlcnRUaHJvd3NFcnJvcih0cnkgbGVhc2UuY2xvc2UoKSkgeyBlcnJvciBpbgogICAgICAgICAgICAgICAgWENUQXNzZXJ0RXF1YWwoZXJyb3IgYXM/IFJlc2V0Qm9vbSwgLmZhaWxlZCkKICAgICAgICAgICAgfQogICAgICAgICAgICBYQ1RBc3NlcnRFcXVhbChwb29sLnN0YXRzKCkuaWRsZSwgMCwgImRpcnR5IG9iamVjdCBtdXN0IG5ldmVyIGJlIGNhY2hlZCIpCiAgICAgICAgfQogICAgICAgIFhDVEFzc2VydEVxdWFsKGNvdW50ZXIuY3JlYXRlZCwgNiwgImRpc2NhcmRlZCBvYmplY3RzIG11c3Qgbm90IGJlIHJldXNlZCIpCiAgICAgICAgWENUQXNzZXJ0RXF1YWwocG9vbC5zdGF0cygpLnJldHVybkNvdW50LCA2KQogICAgICAgIFhDVEFzc2VydEVxdWFsKHBvb2wuc3RhdHMoKS5hY3RpdmUsIDApCiAgICAgICAgWENUQXNzZXJ0Tm9UaHJvdyh0cnkgcG9vbC5hc3NlcnROb0FjdGl2ZUxlYXNlcygpKQogICAgfQoKICAgIC8vIE1BUks6IEM1IHN0cmljdCBtaXN1c2UgZGV0ZWN0aW9uCgogICAgZnVuYyB0ZXN0RG91YmxlQ2xvc2VUaHJvd3MoKSB0aHJvd3MgewogICAgICAgIGxldCAocG9vbCwgXykgPSB0cnkgbWFrZVBvb2woKQogICAgICAgIGxldCBsZWFzZSA9IHRyeSBwb29sLmJvcnJvdygpCiAgICAgICAgdHJ5IGxlYXNlLmNsb3NlKCkKICAgICAgICBYQ1RBc3NlcnRUaHJvd3NFcnJvcih0cnkgbGVhc2UuY2xvc2UoKSkgeyBlcnJvciBpbgogICAgICAgICAgICBYQ1RBc3NlcnRFcXVhbChlcnJvciBhcz8gUG9vbEVycm9yLCAuZG91YmxlUmV0dXJuKQogICAgICAgIH0KICAgICAgICBYQ1RBc3NlcnRFcXVhbChwb29sLnN0YXRzKCkucmV0dXJuQ291bnQsIDEpCiAgICAgICAgWENUQXNzZXJ0Tm9UaHJvdyh0cnkgcG9vbC5hc3NlcnROb0FjdGl2ZUxlYXNlcygpKQogICAgfQoKICAgIGZ1bmMgdGVzdFZhbHVlQWZ0ZXJDbG9zZVRocm93cygpIHRocm93cyB7CiAgICAgICAgbGV0IChwb29sLCBfKSA9IHRyeSBtYWtlUG9vbCgpCiAgICAgICAgbGV0IGxlYXNlID0gdHJ5IHBvb2wuYm9ycm93KCkKICAgICAgICB0cnkgbGVhc2UuY2xvc2UoKQogICAgICAgIFhDVEFzc2VydFRydWUobGVhc2UucmV0dXJuZWQpCiAgICAgICAgWENUQXNzZXJ0VGhyb3dzRXJyb3IodHJ5IGxlYXNlLnZhbHVlKSB7IGVycm9yIGluCiAgICAgICAgICAgIFhDVEFzc2VydEVxdWFsKGVycm9yIGFzPyBQb29sRXJyb3IsIC5sZWFzZUNsb3NlZCkKICAgICAgICB9CiAgICB9CgogICAgZnVuYyB0ZXN0RmFjdG9yeVJldHVybmluZ05pbFRocm93cygpIHRocm93cyB7CiAgICAgICAgbGV0IChwb29sLCBfKSA9IHRyeSBtYWtlUG9vbChmYWN0b3J5OiB7IG5pbCB9KQogICAgICAgIFhDVEFzc2VydFRocm93c0Vycm9yKHRyeSBwb29sLmJvcnJvdygpKSB7IGVycm9yIGluCiAgICAgICAgICAgIFhDVEFzc2VydEVxdWFsKGVycm9yIGFzPyBQb29sRXJyb3IsIC5mYWN0b3J5RmFpbGVkKQogICAgICAgIH0KICAgICAgICBYQ1RBc3NlcnRFcXVhbChwb29sLnN0YXRzKCkuYm9ycm93Q291bnQsIDApCiAgICAgICAgWENUQXNzZXJ0RXF1YWwocG9vbC5zdGF0cygpLmFjdGl2ZSwgMCkKICAgICAgICBYQ1RBc3NlcnROb1Rocm93KHRyeSBwb29sLmFzc2VydE5vQWN0aXZlTGVhc2VzKCkpCiAgICB9CgogICAgZnVuYyB0ZXN0SW52YWxpZENhcGFjaXR5VGhyb3dzKCkgewogICAgICAgIFhDVEFzc2VydFRocm93c0Vycm9yKHRyeSBQb29sPEJveD4oY2FwYWNpdHk6IDAsIGZhY3Rvcnk6IHsgQm94KCkgfSkpIHsgZXJyb3IgaW4KICAgICAgICAgICAgWENUQXNzZXJ0RXF1YWwoZXJyb3IgYXM/IFBvb2xFcnJvciwgLmludmFsaWRDYXBhY2l0eSgwKSkKICAgICAgICB9CiAgICAgICAgWENUQXNzZXJ0VGhyb3dzRXJyb3IodHJ5IFBvb2w8Qm94PihjYXBhY2l0eTogLTMsIGZhY3Rvcnk6IHsgQm94KCkgfSkpIHsgZXJyb3IgaW4KICAgICAgICAgICAgWENUQXNzZXJ0RXF1YWwoZXJyb3IgYXM/IFBvb2xFcnJvciwgLmludmFsaWRDYXBhY2l0eSgtMykpCiAgICAgICAgfQogICAgfQoKICAgIGZ1bmMgdGVzdENsb3NlZFBvb2xSZWplY3RzQm9ycm93KCkgdGhyb3dzIHsKICAgICAgICBsZXQgKHBvb2wsIF8pID0gdHJ5IG1ha2VQb29sKCkKICAgICAgICBsZXQgbGVhc2UgPSB0cnkgcG9vbC5ib3Jyb3coKQogICAgICAgIHRyeSBsZWFzZS5jbG9zZSgpCiAgICAgICAgWENUQXNzZXJ0RXF1YWwocG9vbC5zdGF0cygpLmlkbGUsIDEpCgogICAgICAgIHBvb2wuY2xvc2UoKQogICAgICAgIFhDVEFzc2VydEVxdWFsKHBvb2wuc3RhdHMoKS5pZGxlLCAwKQogICAgICAgIFhDVEFzc2VydFRocm93c0Vycm9yKHRyeSBwb29sLmJvcnJvdygpKSB7IGVycm9yIGluCiAgICAgICAgICAgIFhDVEFzc2VydEVxdWFsKGVycm9yIGFzPyBQb29sRXJyb3IsIC5wb29sQ2xvc2VkKQogICAgICAgIH0KCiAgICAgICAgLy8gQSBsZWFzZSBib3Jyb3dlZCBiZWZvcmUgY2xvc2UoKSBjYW4gc3RpbGwgYmUgY2xvc2VkLCBidXQgdGhlIG9iamVjdAogICAgICAgIC8vIGlzIG5vdCBjYWNoZWQgYWZ0ZXJ3YXJkcy4KICAgICAgICBsZXQgKHAyLCBfKSA9IHRyeSBtYWtlUG9vbCgpCiAgICAgICAgbGV0IGwyID0gdHJ5IHAyLmJvcnJvdygpCiAgICAgICAgcDIuY2xvc2UoKQogICAgICAgIFhDVEFzc2VydE5vVGhyb3codHJ5IGwyLmNsb3NlKCkpCiAgICAgICAgWENUQXNzZXJ0RXF1YWwocDIuc3RhdHMoKS5pZGxlLCAwKQogICAgICAgIFhDVEFzc2VydE5vVGhyb3codHJ5IHAyLmFzc2VydE5vQWN0aXZlTGVhc2VzKCkpCiAgICB9CgogICAgZnVuYyB0ZXN0QXNzZXJ0Tm9BY3RpdmVMZWFzZXNEZXRlY3RzTGVhaygpIHRocm93cyB7CiAgICAgICAgbGV0IChwb29sLCBfKSA9IHRyeSBtYWtlUG9vbCgpCiAgICAgICAgdmFyIGtlcHQ6IExlYXNlPEJveD4/ID0gdHJ5IHBvb2wuYm9ycm93KCkKICAgICAgICB0cnkgd2l0aEV4dGVuZGVkTGlmZXRpbWUoa2VwdCkgewogICAgICAgICAgICBYQ1RBc3NlcnRUaHJvd3NFcnJvcih0cnkgcG9vbC5hc3NlcnROb0FjdGl2ZUxlYXNlcygpKSB7IGVycm9yIGluCiAgICAgICAgICAgICAgICBndWFyZCBsZXQgZSA9IGVycm9yIGFzPyBQb29sRXJyb3IsCiAgICAgICAgICAgICAgICAgICAgICBjYXNlIC5hY3RpdmVMZWFzZXMobGV0IG4pID0gZSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gWENURmFpbCgidW5leHBlY3RlZCBlcnJvcjogXChlcnJvcikiKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgWENUQXNzZXJ0RXF1YWwobiwgMSkKICAgICAgICAgICAgfQogICAgICAgICAgICBYQ1RBc3NlcnRFcXVhbChwb29sLnN0YXRzKCkuYWN0aXZlLCAxKQogICAgICAgIH0KICAgICAgICB0cnkga2VwdD8uY2xvc2UoKQogICAgICAgIGtlcHQgPSBuaWwKICAgICAgICBYQ1RBc3NlcnROb1Rocm93KHRyeSBwb29sLmFzc2VydE5vQWN0aXZlTGVhc2VzKCkpCiAgICB9CgogICAgLy8gTUFSSzogZGVpbml0IGZhbGxiYWNrCgogICAgZnVuYyB0ZXN0Rm9yZ290dGVuQ2xvc2VGYWxsYmFja0Ryb3BzT2JqZWN0QW5kU2V0dGxlc0NvdW50ZXJzKCkgdGhyb3dzIHsKICAgICAgICBsZXQgKHBvb2wsIF8pID0gdHJ5IG1ha2VQb29sKCkKICAgICAgICBkbyB7CiAgICAgICAgICAgIGxldCBhYmFuZG9uZWQgPSB0cnkgcG9vbC5ib3Jyb3coKQogICAgICAgICAgICBsZXQgYm94ID0gdHJ5IGFiYW5kb25lZC52YWx1ZQogICAgICAgICAgICBib3guZGF0YS5hcHBlbmQoImRpcnR5IikKICAgICAgICAgICAgWENUQXNzZXJ0RXF1YWwocG9vbC5zdGF0cygpLmFjdGl2ZSwgMSkKICAgICAgICAgICAgLy8gZGVsaWJlcmF0ZWx5IG5vIGNsb3NlKCkKICAgICAgICB9CiAgICAgICAgWENUQXNzZXJ0RXF1YWwocG9vbC5zdGF0cygpLmFjdGl2ZSwgMCwgImRlaW5pdCBmYWxsYmFjayBtdXN0IHNldHRsZSBjb3VudGVycyIpCiAgICAgICAgWENUQXNzZXJ0RXF1YWwocG9vbC5zdGF0cygpLnJldHVybkNvdW50LCAxKQogICAgICAgIFhDVEFzc2VydEVxdWFsKHBvb2wuc3RhdHMoKS5pZGxlLCAwLCAiYWJhbmRvbmVkIG9iamVjdCBtdXN0IGJlIGRyb3BwZWQsIG5vdCBjYWNoZWQiKQogICAgICAgIFhDVEFzc2VydE5vVGhyb3codHJ5IHBvb2wuYXNzZXJ0Tm9BY3RpdmVMZWFzZXMoKSkKICAgIH0KCiAgICAvLyBNQVJLOiBjb25jdXJyZW5jeQoKICAgIGZ1bmMgdGVzdENvbmN1cnJlbnRCb3Jyb3dDbG9zZUtlZXBzQ291bnRlcnNFeGFjdCgpIHRocm93cyB7CiAgICAgICAgbGV0IChwb29sLCBfKSA9IHRyeSBtYWtlUG9vbChjYXBhY2l0eTogOCkKICAgICAgICBsZXQgaXRlcmF0aW9ucyA9IDEwMAogICAgICAgIERpc3BhdGNoUXVldWUuY29uY3VycmVudFBlcmZvcm0oaXRlcmF0aW9uczogaXRlcmF0aW9ucykgeyBpIGluCiAgICAgICAgICAgIGd1YXJkIGxldCBsZWFzZSA9IHRyeT8gcG9vbC5ib3Jyb3coKSBlbHNlIHsgcmV0dXJuIH0KICAgICAgICAgICAgaWYgbGV0IGJveCA9IHRyeT8gbGVhc2UudmFsdWUgewogICAgICAgICAgICAgICAgYm94LmRhdGEuYXBwZW5kKCJcKGkpIikKICAgICAgICAgICAgfQogICAgICAgICAgICB0cnk/IGxlYXNlLmNsb3NlKCkKICAgICAgICB9CiAgICAgICAgbGV0IHMgPSBwb29sLnN0YXRzKCkKICAgICAgICBYQ1RBc3NlcnRFcXVhbChzLmJvcnJvd0NvdW50LCBpdGVyYXRpb25zKQogICAgICAgIFhDVEFzc2VydEVxdWFsKHMucmV0dXJuQ291bnQsIGl0ZXJhdGlvbnMpCiAgICAgICAgWENUQXNzZXJ0RXF1YWwocy5hY3RpdmUsIDApCiAgICAgICAgWENUQXNzZXJ0Tm9UaHJvdyh0cnkgcG9vbC5hc3NlcnROb0FjdGl2ZUxlYXNlcygpKQogICAgfQp9Cg==
+import XCTest
+import Foundation
+@testable import GCPrimitives
+
+private final class Box {
+    var data: [String] = []
+}
+
+private enum ResetBoom: Error, Equatable {
+    case failed
+}
+
+private final class Counter {
+    var created = 0
+    var resets = 0
+}
+
+final class PoolTests: XCTestCase {
+
+    private func makePool(
+        capacity: Int = 4,
+        factory: (() -> Box?)? = nil,
+        recycler: ((Box) throws -> Void)? = nil
+    ) throws -> (Pool<Box>, Counter) {
+        let counter = Counter()
+        let f: () -> Box? = factory ?? {
+            counter.created += 1
+            return Box()
+        }
+        let r: (Box) throws -> Void = recycler ?? { box in
+            counter.resets += 1
+            box.data.removeAll()
+        }
+        return (try Pool<Box>(capacity: capacity, factory: f, recycler: r), counter)
+    }
+
+    // MARK: C1 / diagnostics
+
+    func testBorrowUseCloseAndCounters() throws {
+        let (pool, counter) = try makePool()
+        let lease = try pool.borrow()
+        let box = try lease.value
+        XCTAssertTrue(box.data.isEmpty)
+        box.data.append("x")
+        try lease.close()
+
+        let s = pool.stats()
+        XCTAssertEqual(s.active, 0)
+        XCTAssertEqual(s.borrowCount, 1)
+        XCTAssertEqual(s.returnCount, 1)
+        XCTAssertEqual(s.idle, 1)
+        XCTAssertEqual(s.created, 1)
+        XCTAssertEqual(s.capacity, 4)
+        XCTAssertFalse(s.closed)
+        XCTAssertEqual(counter.created, 1)
+        XCTAssertEqual(counter.resets, 1)
+        XCTAssertNoThrow(try pool.assertNoActiveLeases())
+    }
+
+    // MARK: C3 reuse is bounded and reset works
+
+    func testReuseCallsFactoryOnlyOnce() throws {
+        let (pool, counter) = try makePool()
+        for i in 0..<10 {
+            let lease = try pool.borrow()
+            let box = try lease.value
+            XCTAssertTrue(box.data.isEmpty, "round \(i): recycler did not reset")
+            box.data.append("x")
+            try lease.close()
+        }
+        XCTAssertEqual(counter.created, 1)
+        XCTAssertEqual(pool.stats().borrowCount, 10)
+        XCTAssertEqual(pool.stats().returnCount, 10)
+    }
+
+    func testIdleIsBoundedByCapacity() throws {
+        let (pool, _) = try makePool(capacity: 2)
+        // 先同时持有 32 个租约；顺序借还时池里永远只有 1 个空闲对象，
+        // 根本测不到 capacity 上限。
+        var leases: [Lease<Box>] = []
+        for _ in 0..<32 {
+            leases.append(try pool.borrow())
+        }
+        for lease in leases {
+            try lease.close()
+        }
+        XCTAssertEqual(pool.stats().idle, 2)
+        XCTAssertEqual(pool.stats().active, 0)
+    }
+
+    // MARK: C4 reset failure
+
+    func testResetFailureDiscardsObjectAndPropagates() throws {
+        let (pool, counter) = try makePool(recycler: { _ in throw ResetBoom.failed })
+        for _ in 0..<6 {
+            let lease = try pool.borrow()
+            XCTAssertThrowsError(try lease.close()) { error in
+                XCTAssertEqual(error as? ResetBoom, .failed)
+            }
+            XCTAssertEqual(pool.stats().idle, 0, "dirty object must never be cached")
+        }
+        XCTAssertEqual(counter.created, 6, "discarded objects must not be reused")
+        XCTAssertEqual(pool.stats().returnCount, 6)
+        XCTAssertEqual(pool.stats().active, 0)
+        XCTAssertNoThrow(try pool.assertNoActiveLeases())
+    }
+
+    // MARK: C5 strict misuse detection
+
+    func testDoubleCloseThrows() throws {
+        let (pool, _) = try makePool()
+        let lease = try pool.borrow()
+        try lease.close()
+        XCTAssertThrowsError(try lease.close()) { error in
+            XCTAssertEqual(error as? PoolError, .doubleReturn)
+        }
+        XCTAssertEqual(pool.stats().returnCount, 1)
+        XCTAssertNoThrow(try pool.assertNoActiveLeases())
+    }
+
+    func testValueAfterCloseThrows() throws {
+        let (pool, _) = try makePool()
+        let lease = try pool.borrow()
+        try lease.close()
+        XCTAssertTrue(lease.returned)
+        XCTAssertThrowsError(try lease.value) { error in
+            XCTAssertEqual(error as? PoolError, .leaseClosed)
+        }
+    }
+
+    func testFactoryReturningNilThrows() throws {
+        let (pool, _) = try makePool(factory: { nil })
+        XCTAssertThrowsError(try pool.borrow()) { error in
+            XCTAssertEqual(error as? PoolError, .factoryFailed)
+        }
+        XCTAssertEqual(pool.stats().borrowCount, 0)
+        XCTAssertEqual(pool.stats().active, 0)
+        XCTAssertNoThrow(try pool.assertNoActiveLeases())
+    }
+
+    func testInvalidCapacityThrows() {
+        XCTAssertThrowsError(try Pool<Box>(capacity: 0, factory: { Box() })) { error in
+            XCTAssertEqual(error as? PoolError, .invalidCapacity(0))
+        }
+        XCTAssertThrowsError(try Pool<Box>(capacity: -3, factory: { Box() })) { error in
+            XCTAssertEqual(error as? PoolError, .invalidCapacity(-3))
+        }
+    }
+
+    func testClosedPoolRejectsBorrow() throws {
+        let (pool, _) = try makePool()
+        let lease = try pool.borrow()
+        try lease.close()
+        XCTAssertEqual(pool.stats().idle, 1)
+
+        pool.close()
+        XCTAssertEqual(pool.stats().idle, 0)
+        XCTAssertThrowsError(try pool.borrow()) { error in
+            XCTAssertEqual(error as? PoolError, .poolClosed)
+        }
+
+        // A lease borrowed before close() can still be closed, but the object
+        // is not cached afterwards.
+        let (p2, _) = try makePool()
+        let l2 = try p2.borrow()
+        p2.close()
+        XCTAssertNoThrow(try l2.close())
+        XCTAssertEqual(p2.stats().idle, 0)
+        XCTAssertNoThrow(try p2.assertNoActiveLeases())
+    }
+
+    func testAssertNoActiveLeasesDetectsLeak() throws {
+        let (pool, _) = try makePool()
+        var kept: Lease<Box>? = try pool.borrow()
+        try withExtendedLifetime(kept) {
+            XCTAssertThrowsError(try pool.assertNoActiveLeases()) { error in
+                guard let e = error as? PoolError,
+                      case .activeLeases(let n) = e else {
+                    return XCTFail("unexpected error: \(error)")
+                }
+                XCTAssertEqual(n, 1)
+            }
+            XCTAssertEqual(pool.stats().active, 1)
+        }
+        try kept?.close()
+        kept = nil
+        XCTAssertNoThrow(try pool.assertNoActiveLeases())
+    }
+
+    // MARK: deinit fallback
+
+    func testForgottenCloseFallbackDropsObjectAndSettlesCounters() throws {
+        let (pool, _) = try makePool()
+        do {
+            let abandoned = try pool.borrow()
+            let box = try abandoned.value
+            box.data.append("dirty")
+            XCTAssertEqual(pool.stats().active, 1)
+            // deliberately no close()
+        }
+        XCTAssertEqual(pool.stats().active, 0, "deinit fallback must settle counters")
+        XCTAssertEqual(pool.stats().returnCount, 1)
+        XCTAssertEqual(pool.stats().idle, 0, "abandoned object must be dropped, not cached")
+        XCTAssertNoThrow(try pool.assertNoActiveLeases())
+    }
+
+    // MARK: concurrency
+
+    func testConcurrentBorrowCloseKeepsCountersExact() throws {
+        let (pool, _) = try makePool(capacity: 8)
+        let iterations = 100
+        DispatchQueue.concurrentPerform(iterations: iterations) { i in
+            guard let lease = try? pool.borrow() else { return }
+            if let box = try? lease.value {
+                box.data.append("\(i)")
+            }
+            try? lease.close()
+        }
+        let s = pool.stats()
+        XCTAssertEqual(s.borrowCount, iterations)
+        XCTAssertEqual(s.returnCount, iterations)
+        XCTAssertEqual(s.active, 0)
+        XCTAssertNoThrow(try pool.assertNoActiveLeases())
+    }
+}

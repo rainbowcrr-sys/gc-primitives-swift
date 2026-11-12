@@ -1,1 +1,121 @@
-IyBnYy1wcmltaXRpdmVzIMK3IFN3aWZ0IFBvcnQKCj4gW+S4reaWh10oUkVBRE1FLm1kKSDCtyBFbmdsaXNoCgpBIFN3aWZ0IHBvcnQgb2YgdGhlIHNhbWUgY29uY2VwdHVhbCBjb250cmFjdCBhcyB0aGUgSmF2YSAvIEMrKyAvIFB5dGhvbiAvIFJ1c3QgLyBHbyAvIFppZyBpbXBsZW1lbnRhdGlvbnMuIFNlZSBzZWN0aW9uIDExLjEgb2YgdGhlIHJlcG9zaXRvcnktcm9vdCBbU1BFQy5lbi5tZF0oaHR0cHM6Ly9naXRodWIuY29tL3JhaW5ib3djcnItc3lzL3JiYy1tb25vcmVwby9ibG9iL21haW4vU1BFQy5lbi5tZCkgKFvkuK3mloddKGh0dHBzOi8vZ2l0aHViLmNvbS9yYWluYm93Y3JyLXN5cy9yYmMtbW9ub3JlcG8vYmxvYi9tYWluL1NQRUMubWQpKS4KCiMjIFdoeSBTd2lmdCBuZWVkcyBhIHBvb2wgYXQgYWxsOiBBUkMsIG5vdCBHQwoKU3dpZnQgaGFzICoqbm8gZ2FyYmFnZSBjb2xsZWN0b3IqKiDigJQgaXQgdXNlcyAqKkFSQyAoYXV0b21hdGljIHJlZmVyZW5jZSBjb3VudGluZykqKiwgd2hlcmUgYW4gb2JqZWN0IGlzIGZyZWVkIGFzIHNvb24gYXMgaXRzIHJlZmVyZW5jZSBjb3VudCBoaXRzIHplcm8uIFNvIHRoaXMgUkVBRE1FIG5ldmVyIHNheXMgInNhdmVzIEdDIi4gSXQgY2xhaW1zIG9ubHk6CgotIEZld2VyIGhlYXAgYGFsbG9jYCAvIGBkZWFsbG9jYCBvcGVyYXRpb25zCi0gRmV3ZXIgcmV0YWluL3JlbGVhc2UgcmVmZXJlbmNlLWNvdW50aW5nIG9wZXJhdGlvbnMgb24gaG90IHBhdGhzCi0gQmV0dGVyIGNhY2hlIGxvY2FsaXR5IGFmdGVyIHJldXNlLCBhbmQgcmV1c2Ugb2YgdGhlIHNhbWUgcmVmZXJlbmNlIGluc3RlYWQgb2YgcmVwZWF0ZWQgYWxsb2NhdGlvbgoKKipgVGAgbXVzdCBiZSBhIHJlZmVyZW5jZSB0eXBlIChgVDogQW55T2JqZWN0YCkuKiogQSBTd2lmdCBnZXR0ZXIgb24gYSB2YWx1ZSB0eXBlIHJldHVybnMgYSAqKmNvcHkqKiwgc28gYWxsb3dpbmcgYHN0cnVjdGAgd291bGQgc2lsZW50bHkgZGlzY2FyZCBldmVyeSBtdXRhdGlvbiB0aGUgY2FsbGVyIG1ha2VzIHRvIGBsZWFzZS52YWx1ZWAg4oCUIHRoZSBvYmplY3Qgd291bGQgbmV2ZXIgY29tZSBiYWNrIHRvIHRoZSBwb29sIGluIHRoZSBzdGF0ZSBleHBlY3RlZC4gUmVzdHJpY3RpbmcgdG8gY2xhc3NlcyBtYXRjaGVzICJoZWFwIG9iamVjdCIgc2VtYW50aWNzIGFuZCBsZXRzIGByZWN5Y2xlcmAgcmVzZXQgaW4gcGxhY2UuCgojIyBJbXBvcnQKClN3aWZ0UE0gZGlzdHJpYnV0aW9uIGlzICoqemVybyByZWdpc3RyYXRpb24sIHplcm8gY3JlZGVudGlhbHMqKjogYSBwdWJsaWMgR2l0IHJlcG9zaXRvcnkgKyBgUGFja2FnZS5zd2lmdGAgKyBhIHNlbWFudGljIHZlcnNpb24gdGFnIGlzIGFsbCB0aGF0IGlzIG5lZWRlZC4KCmBgYHN3aWZ0Ci8vIFBhY2thZ2Uuc3dpZnQKZGVwZW5kZW5jaWVzOiBbCiAgICAucGFja2FnZSgKICAgICAgICB1cmw6ICJodHRwczovL2dpdGh1Yi5jb20vcmFpbmJvd2Nyci1zeXMvcmJjLW1vbm9yZXBvLmdpdCIsCiAgICAgICAgLnVwVG9OZXh0TWFqb3IoZnJvbTogIjAuMS4wIikKICAgICkKXSwKdGFyZ2V0czogWwogICAgLnRhcmdldChuYW1lOiAiWW91ckFwcCIsIGRlcGVuZGVuY2llczogWwogICAgICAgIC5wcm9kdWN0KG5hbWU6ICJHQ1ByaW1pdGl2ZXMiLCBwYWNrYWdlOiAicmJjLW1vbm9yZXBvIikKICAgIF0pCl0KYGBgCgo+ICoqTW9ub3JlcG8gc3ViZGlyZWN0b3J5IG5vdGUqKjogYC5wYWNrYWdlKHVybDopYCBwb2ludHMgYXQgdGhlIHJlcG9zaXRvcnkgcm9vdCBhbmQgZXhwZWN0cyBgUGFja2FnZS5zd2lmdGAgdGhlcmUuIFRoaXMgcG9ydCBsaXZlcyBpbiBgc3dpZnQvZ2MtcHJpbWl0aXZlcy9gLCBzbyBjb25zdW1pbmcgaXQgZGlyZWN0bHkgZnJvbSB0aGUgcm9vdCByZXBvc2l0b3J5IHJlcXVpcmVzIGVpdGhlciBhIGRlZGljYXRlZCBHaXQgcmVwb3NpdG9yeSBmb3IgdGhhdCBkaXJlY3Rvcnkgb3IgYSBsb2NhbCBwYXRoIGRlcGVuZGVuY3kuIFRoaXMgaXRlcmF0aW9uIHNoaXBzIGFzIGEgc3RhbmRhbG9uZSBgc3dpZnQgdGVzdGAtYWJsZSBwYWNrYWdlOyB0aGUgZGlzdHJpYnV0aW9uIHJvdXRlIGlzIGRlY2lkZWQgYXQgcmVsZWFzZSB0aW1lIChzZWUgYmVsb3cpLgoKIyMgVXNhZ2UKCmBgYHN3aWZ0CmltcG9ydCBHQ1ByaW1pdGl2ZXMKCmZpbmFsIGNsYXNzIEJ1ZmZlciB7CiAgICB2YXIgYnl0ZXM6IFtVSW50OF0gPSBbXQp9CgpsZXQgcG9vbCA9IHRyeSBQb29sPEJ1ZmZlcj4oCiAgICBjYXBhY2l0eTogMzIsCiAgICBmYWN0b3J5OiB7IEJ1ZmZlcigpIH0sCiAgICByZWN5Y2xlcjogeyBidWYgaW4gYnVmLmJ5dGVzLnJlbW92ZUFsbCgpIH0gICAvLyByZXNldCBvbiByZXR1cm4KKQoKbGV0IGxlYXNlID0gdHJ5IHBvb2wuYm9ycm93KCkKZGVmZXIgeyB0cnk/IGxlYXNlLmNsb3NlKCkgfSAgICAgICAgICAgICAgICAgICAgIC8vIEMxOiBldmVyeSBib3Jyb3cgbXVzdCBiZSByZXR1cm5lZAp0cnkgbGVhc2UudmFsdWUuYnl0ZXMuYXBwZW5kKGNvbnRlbnRzT2Y6IFsxLCAyLCAzXSkKcHJpbnQodHJ5IGxlYXNlLnZhbHVlLmJ5dGVzKQoKdHJ5IHBvb2wuYXNzZXJ0Tm9BY3RpdmVMZWFzZXMoKSAgICAgICAgICAgICAgICAgIC8vIHR1cm5zIGEgbGVhayBpbnRvIGEgdGVzdCBmYWlsdXJlCmBgYAoKYGxlYXNlLnZhbHVlYCBpcyBhIHRocm93aW5nIGdldHRlcjsgcmVhZGluZyBpdCBhZnRlciBjbG9zZSB0aHJvd3MgYFBvb2xFcnJvci5sZWFzZUNsb3NlZGAuCgojIyBUaGUgU2FmZXR5IENvbnRyYWN0IChDMeKAk0M1KQoKfCBDb250cmFjdCB8IEltcGxlbWVudGF0aW9uIHwgT24gdmlvbGF0aW9uIHwKfCAtLS0gfCAtLS0gfCAtLS0gfAp8IEMxIEV4cGxpY2l0IHJldHVybiB8IGBsZWFzZS5jbG9zZSgpYCwgcmVjb21tZW5kZWQgYGRlZmVyIHsgdHJ5PyBsZWFzZS5jbG9zZSgpIH1gIHwgRm9yZ290dGVuIGNsb3NlOiBgZGVpbml0YCBmYWxsYmFjayAqKnNldHRsZXMgY291bnRlcnMgYW5kIGRyb3BzIHRoZSBvYmplY3QqKiwgbmV2ZXIgY2FjaGVzIGl0IHwKfCBDMiBCb3Jyb3cgYWZ0ZXIgY2xvc2UgfCBgcG9vbC5jbG9zZSgpYCByZWplY3RzIGBib3Jyb3coKWAgYW5kIGNsZWFycyBpZGxlIG9iamVjdHMgfCBgUG9vbEVycm9yLnBvb2xDbG9zZWRgIHwKfCBDMyBCb3VuZGVkIHwgYE5TTG9ja2AtcHJvdGVjdGVkIGJvdW5kZWQgc3RhY2ssIGNhcCBgY2FwYWNpdHlgIChkZWZhdWx0IDE2KSB8IOKAlCB8CnwgQzQgUmVzZXQgb24gcmV0dXJuIHwgYHJlY3ljbGVyYCBydW5zIG9uY2UgcGVyIHN1Y2Nlc3NmdWwgcmV0dXJuIHwgT24gdGhyb3c6ICoqb2JqZWN0IGRpc2NhcmRlZCwgZXJyb3IgcHJvcGFnYXRlZCwgY291bnRlcnMgc3RpbGwgc2V0dGxlKiosIG5ldmVyIHJldHVybmVkIHRvIHRoZSBwb29sIHwKfCBDNSBTdHJpY3QgbWlzdXNlIGRldGVjdGlvbiB8IERvdWJsZSBjbG9zZSwgYHZhbHVlYCBhZnRlciBjbG9zZSwgZmFjdG9yeSByZXR1cm5pbmcgbmlsLCBgY2FwYWNpdHkgPD0gMGAgfCBBbHdheXMgYFBvb2xFcnJvcmA7ICoqbm8gc3dpdGNoLCBubyBgZmF0YWxFcnJvcmAqKiB8CgoqKkNvdW50ZXIgc2VtYW50aWNzKio6IGByZXR1cm5Db3VudCAvIGFjdGl2ZWAgc2V0dGxlIGF0IHRoZSB2ZXJ5IHN0YXJ0IG9mIGBjbG9zZSgpYCwgc28gYSB0aHJvd2luZyBgcmVjeWNsZXJgIGNhbm5vdCBsZWF2ZSBhIHBoYW50b20gYWN0aXZlIGxlYXNlLgoKKipUaGUgZGVpbml0IHRyYWRlb2ZmKio6IFN3aWZ0J3MgYGRlaW5pdGAgY2Fubm90IGB0aHJvd2AsIHNvIHRoZSBmYWxsYmFjayBwYXRoIGNhbm5vdCBzYWZlbHkgcnVuIGEgcG90ZW50aWFsbHkgdGhyb3dpbmcgYHJlY3ljbGVyYC4gQW4gb2JqZWN0IHdob3NlIGBjbG9zZSgpYCB3YXMgZm9yZ290dGVuIGlzIHRoZXJlZm9yZSAqKmRpc2NhcmRlZCByYXRoZXIgdGhhbiByZXVzZWQqKiDigJQgY291bnRlcnMgc3RheSBleGFjdCBhbmQgYSBkaXJ0eSBvYmplY3QgY2FuIG5ldmVyIHJlYWNoIHRoZSBuZXh0IGJvcnJvd2VyLiBUaGlzIGlzIHRoZSBrZXkgZGlmZmVyZW5jZSBmcm9tIEMrKyBSQUlJIGFuZCBpcyByZWNvcmRlZCBpbiBTUEVDIDExLjIuCgojIyBDb25jdXJyZW5jeSBNb2RlbDogTG9jay1Qcm90ZWN0ZWQgVmFyaWFudAoKU3dpZnQgaGFzIG5vIHN0YWJsZSBjcm9zcy1wbGF0Zm9ybSB0aHJlYWQtbG9jYWwgQVBJLCBzbyB0aGlzIHBvcnQgdXNlcyAqKm9uZSBgTlNMb2NrYC1wcm90ZWN0ZWQgYm91bmRlZCBzdGFjayB3aXRoIGNvdW50ZXJzIHRha2VuIGluc2lkZSB0aGUgbG9jayoqLCBpbnN0ZWFkIG9mIHBlci10aHJlYWQgc3RhdGUuIENyb3NzLXRocmVhZCB1c2Ugb2YgdGhlIHNhbWUgYExlYXNlYCBpcyBub3QgY2hlY2tlZCBhdCBydW50aW1lOyB0aGUgZG9jdW1lbnRlZCBjb250cmFjdCBpcyB0aGF0IGEgbGVhc2UgYmVsb25ncyB0byB0aGUgdGhyZWFkIHRoYXQgYm9ycm93ZWQgaXQuIENJIHZlcmlmaWVzIGNvdW50ZXIgcHJlY2lzaW9uIHdpdGggMTAwIGNvbmN1cnJlbnQgYm9ycm93L2Nsb3NlIG9wZXJhdGlvbnMgdmlhIGBEaXNwYXRjaFF1ZXVlLmNvbmN1cnJlbnRQZXJmb3JtYC4KCiMjIERpYWdub3N0aWNzIEFQSQoKfCBKYXZhIHwgU3dpZnQgfAp8IC0tLSB8IC0tLSB8CnwgYGJvcnJvdygpYCB8IGBib3Jyb3coKSB0aHJvd3MgLT4gTGVhc2U8VD5gIHwKfCBgY2FwYWNpdHkoKWAgfCBgY2FwYWNpdHlgIC8gYHN0YXRzKCkuY2FwYWNpdHlgIHwKfCBgaWRsZUNvdW50KClgIHwgYHN0YXRzKCkuaWRsZWAgfAp8IGBhY3RpdmVMZWFzZXMoKWAgfCBgc3RhdHMoKS5hY3RpdmVgIHwKfCBgYm9ycm93Q291bnQoKWAgLyBgcmV0dXJuQ291bnQoKWAgfCBgc3RhdHMoKS5ib3Jyb3dDb3VudGAgLyBgLnJldHVybkNvdW50YCB8CnwgYGFzc2VydE5vQWN0aXZlTGVhc2VzKClgIHwgYGFzc2VydE5vQWN0aXZlTGVhc2VzKCkgdGhyb3dzYCB8CgpBbHNvIGBzdGF0cygpLmNyZWF0ZWRgLCBgc3RhdHMoKS5jbG9zZWRgLCBhbmQgYGxlYXNlLnJldHVybmVkYC4KCiMjIFZlcmlmaWNhdGlvbgoKYGBgYmFzaApjZCBzd2lmdC9nYy1wcmltaXRpdmVzCnN3aWZ0IHRlc3QKYGBgCgpDSSBydW5zIG9uICoqbWFjT1MgKFhjb2RlIFN3aWZ0KSBhbmQgVWJ1bnR1IExpbnV4IChTd2lmdCA1LjkrKSoqLiBUaGVyZSBhcmUgMTIgWENUZXN0IGNhc2VzIGNvdmVyaW5nIGV2ZXJ5IHJvdyBhYm92ZSBwbHVzIGNvbmN1cnJlbmN5IGFuZCB0aGUgZGVpbml0IGZhbGxiYWNrLgoKIyMgRGlzdHJpYnV0aW9uIChgMC4xLjBgIHB1Ymxpc2hlZCkKCioqU3dpZnRQTSBkZXBlbmRlbmN5KiogKHJlY29tbWVuZGVkKToKCmBgYHN3aWZ0Ci5wYWNrYWdlKHVybDogImh0dHBzOi8vZ2l0aHViLmNvbS9yYWluYm93Y3JyLXN5cy9nYy1wcmltaXRpdmVzLXN3aWZ0LmdpdCIsIGZyb206ICIwLjEuMCIpCmBgYAoKVGhlIHN0YW5kYWxvbmUgZGlzdHJpYnV0aW9uIHJlcG8gaHR0cHM6Ly9naXRodWIuY29tL3JhaW5ib3djcnItc3lzL2djLXByaW1pdGl2ZXMtc3dpZnQga2VlcHMgYFBhY2thZ2Uuc3dpZnRgIGF0IGl0cyByb290IGFuZCBpcyB0YWdnZWQgYHYwLjEuMGAuCgotICoqQ2Fub25pY2FsIHNvdXJjZSoqOiB0aGlzIGRpcmVjdG9yeSwgYHN3aWZ0L2djLXByaW1pdGl2ZXMvYDsgQ0kgcnVucyAxMiBYQ1Rlc3QgY2FzZXMgb24gYm90aCBtYWNPUyBhbmQgVWJ1bnR1Ci0gKipNb25vcmVwbyByZWxlYXNlIHRhZyoqOiBgc3dpZnQvZ2MtcHJpbWl0aXZlcy92MC4xLjBgLCB3aXRoIGEgc291cmNlIHRhcmJhbGwgYXR0YWNoZWQgdG8gdGhlIFJlbGVhc2UKLSAqKlZlcmlmaWNhdGlvbiBwYWdlKio6IGh0dHBzOi8vc3dpZnRwYWNrYWdlaW5kZXguY29tL3JhaW5ib3djcnItc3lzL2djLXByaW1pdGl2ZXMtc3dpZnQgKGZpcnN0LXRpbWUgaW5kZXhpbmcgY2FuIGJlIHJlcXVlc3RlZCBhdCBodHRwczovL3N3aWZ0cGFja2FnZWluZGV4LmNvbS9hZGQtYS1wYWNrYWdlICkKCj4gKipXaHkgYSBzZWNvbmQgcmVwb3NpdG9yeSoqOiBTd2lmdFBNIHJlcXVpcmVzIGBQYWNrYWdlLnN3aWZ0YCBhdCB0aGUgcmVwb3NpdG9yeSByb290IGFuZCBvbmx5IGFjY2VwdHMgcGxhaW4gc2VtYW50aWMtdmVyc2lvbiB0YWdzIChgdjAuMS4wYCk7IGl0IGRvZXMgbm90IHVuZGVyc3RhbmQgc3ViZGlyZWN0b3J5IHByZWZpeGVzIGxpa2UgYHN3aWZ0L2djLXByaW1pdGl2ZXMvdjAuMS4wYCwgYW5kIGB2MC4xLjBgIHdhcyBhbHJlYWR5IHRha2VuIGJ5IHRoZSBmaXJzdCBKYXZhIHJlbGVhc2UuIEJvdGggY29waWVzIGhvbGQgaWRlbnRpY2FsIGNvZGUgYW5kIGFyZSBzeW5jZWQgYXQgcmVsZWFzZSB0aW1lLgoKTm8gcmVnaXN0cmF0aW9uLCBubyB0b2tlbiwgbm8gY3JlZGVudGlhbHMuCgpFdmVyeSBNYXJrZG93biBmaWxlIGhhcyBhIENoaW5lc2UgYW5kIGFuIEVuZ2xpc2ggdmVyc2lvbjsgRW5nbGlzaCBmaWxlbmFtZXMgZW5kIGluIGAuZW4ubWRgLgo=
+# gc-primitives · Swift Port
+
+> [中文](README.md) · English
+
+A Swift port of the same conceptual contract as the Java / C++ / Python / Rust / Go / Zig implementations. See section 11.1 of the repository-root [SPEC.en.md](https://github.com/rainbowcrr-sys/rbc-monorepo/blob/main/SPEC.en.md) ([中文](https://github.com/rainbowcrr-sys/rbc-monorepo/blob/main/SPEC.md)).
+
+## Why Swift needs a pool at all: ARC, not GC
+
+Swift has **no garbage collector** — it uses **ARC (automatic reference counting)**, where an object is freed as soon as its reference count hits zero. So this README never says "saves GC". It claims only:
+
+- Fewer heap `alloc` / `dealloc` operations
+- Fewer retain/release reference-counting operations on hot paths
+- Better cache locality after reuse, and reuse of the same reference instead of repeated allocation
+
+**`T` must be a reference type (`T: AnyObject`).** A Swift getter on a value type returns a **copy**, so allowing `struct` would silently discard every mutation the caller makes to `lease.value` — the object would never come back to the pool in the state expected. Restricting to classes matches "heap object" semantics and lets `recycler` reset in place.
+
+## Import
+
+SwiftPM distribution is **zero registration, zero credentials**: a public Git repository + `Package.swift` + a semantic version tag is all that is needed.
+
+```swift
+// Package.swift
+dependencies: [
+    .package(
+        url: "https://github.com/rainbowcrr-sys/rbc-monorepo.git",
+        .upToNextMajor(from: "0.1.0")
+    )
+],
+targets: [
+    .target(name: "YourApp", dependencies: [
+        .product(name: "GCPrimitives", package: "rbc-monorepo")
+    ])
+]
+```
+
+> **Monorepo subdirectory note**: `.package(url:)` points at the repository root and expects `Package.swift` there. This port lives in `swift/gc-primitives/`, so consuming it directly from the root repository requires either a dedicated Git repository for that directory or a local path dependency. This iteration ships as a standalone `swift test`-able package; the distribution route is decided at release time (see below).
+
+## Usage
+
+```swift
+import GCPrimitives
+
+final class Buffer {
+    var bytes: [UInt8] = []
+}
+
+let pool = try Pool<Buffer>(
+    capacity: 32,
+    factory: { Buffer() },
+    recycler: { buf in buf.bytes.removeAll() }   // reset on return
+)
+
+let lease = try pool.borrow()
+defer { try? lease.close() }                     // C1: every borrow must be returned
+try lease.value.bytes.append(contentsOf: [1, 2, 3])
+print(try lease.value.bytes)
+
+try pool.assertNoActiveLeases()                  // turns a leak into a test failure
+```
+
+`lease.value` is a throwing getter; reading it after close throws `PoolError.leaseClosed`.
+
+## The Safety Contract (C1–C5)
+
+| Contract | Implementation | On violation |
+| --- | --- | --- |
+| C1 Explicit return | `lease.close()`, recommended `defer { try? lease.close() }` | Forgotten close: `deinit` fallback **settles counters and drops the object**, never caches it |
+| C2 Borrow after close | `pool.close()` rejects `borrow()` and clears idle objects | `PoolError.poolClosed` |
+| C3 Bounded | `NSLock`-protected bounded stack, cap `capacity` (default 16) | — |
+| C4 Reset on return | `recycler` runs once per successful return | On throw: **object discarded, error propagated, counters still settle**, never returned to the pool |
+| C5 Strict misuse detection | Double close, `value` after close, factory returning nil, `capacity <= 0` | Always `PoolError`; **no switch, no `fatalError`** |
+
+**Counter semantics**: `returnCount / active` settle at the very start of `close()`, so a throwing `recycler` cannot leave a phantom active lease.
+
+**The deinit tradeoff**: Swift's `deinit` cannot `throw`, so the fallback path cannot safely run a potentially throwing `recycler`. An object whose `close()` was forgotten is therefore **discarded rather than reused** — counters stay exact and a dirty object can never reach the next borrower. This is the key difference from C++ RAII and is recorded in SPEC 11.2.
+
+## Concurrency Model: Lock-Protected Variant
+
+Swift has no stable cross-platform thread-local API, so this port uses **one `NSLock`-protected bounded stack with counters taken inside the lock**, instead of per-thread state. Cross-thread use of the same `Lease` is not checked at runtime; the documented contract is that a lease belongs to the thread that borrowed it. CI verifies counter precision with 100 concurrent borrow/close operations via `DispatchQueue.concurrentPerform`.
+
+## Diagnostics API
+
+| Java | Swift |
+| --- | --- |
+| `borrow()` | `borrow() throws -> Lease<T>` |
+| `capacity()` | `capacity` / `stats().capacity` |
+| `idleCount()` | `stats().idle` |
+| `activeLeases()` | `stats().active` |
+| `borrowCount()` / `returnCount()` | `stats().borrowCount` / `.returnCount` |
+| `assertNoActiveLeases()` | `assertNoActiveLeases() throws` |
+
+Also `stats().created`, `stats().closed`, and `lease.returned`.
+
+## Verification
+
+```bash
+cd swift/gc-primitives
+swift test
+```
+
+CI runs on **macOS (Xcode Swift) and Ubuntu Linux (Swift 5.9+)**. There are 12 XCTest cases covering every row above plus concurrency and the deinit fallback.
+
+## Distribution (`0.1.0` published)
+
+**SwiftPM dependency** (recommended):
+
+```swift
+.package(url: "https://github.com/rainbowcrr-sys/gc-primitives-swift.git", from: "0.1.0")
+```
+
+The standalone distribution repo https://github.com/rainbowcrr-sys/gc-primitives-swift keeps `Package.swift` at its root and is tagged `v0.1.0`.
+
+- **Canonical source**: this directory, `swift/gc-primitives/`; CI runs 12 XCTest cases on both macOS and Ubuntu
+- **Monorepo release tag**: `swift/gc-primitives/v0.1.0`, with a source tarball attached to the Release
+- **Verification page**: https://swiftpackageindex.com/rainbowcrr-sys/gc-primitives-swift (first-time indexing can be requested at https://swiftpackageindex.com/add-a-package )
+
+> **Why a second repository**: SwiftPM requires `Package.swift` at the repository root and only accepts plain semantic-version tags (`v0.1.0`); it does not understand subdirectory prefixes like `swift/gc-primitives/v0.1.0`, and `v0.1.0` was already taken by the first Java release. Both copies hold identical code and are synced at release time.
+
+No registration, no token, no credentials.
+
+Every Markdown file has a Chinese and an English version; English filenames end in `.en.md`.
