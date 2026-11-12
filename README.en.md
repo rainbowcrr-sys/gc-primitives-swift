@@ -1,5 +1,7 @@
 # gc-primitives · Swift Port
 
+> This repository is the SwiftPM distribution mirror (root-level `Package.swift`); the canonical source lives in [`rbc-monorepo/swift/gc-primitives`](https://github.com/rainbowcrr-sys/rbc-monorepo/tree/main/swift/gc-primitives).
+
 > [中文](README.md) · English
 
 A Swift port of the same conceptual contract as the Java / C++ / Python / Rust / Go / Zig implementations. See section 11.1 of the repository-root [SPEC.en.md](https://github.com/rainbowcrr-sys/rbc-monorepo/blob/main/SPEC.en.md) ([中文](https://github.com/rainbowcrr-sys/rbc-monorepo/blob/main/SPEC.md)).

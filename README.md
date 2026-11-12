@@ -1,5 +1,7 @@
 # gc-primitives · Swift 版
 
+> 本仓库是 SwiftPM 分发镜像（根级 `Package.swift`）；源码主副本在 [`rbc-monorepo/swift/gc-primitives`](https://github.com/rainbowcrr-sys/rbc-monorepo/tree/main/swift/gc-primitives)。
+
 > 中文 · [English](README.en.md)
 
 与 Java / C++ / Python / Rust / Go / Zig 同一套概念契约的 Swift 移植，行为规范见仓库根 [SPEC.md](https://github.com/rainbowcrr-sys/rbc-monorepo/blob/main/SPEC.md) 第 11.1 节（[English](https://github.com/rainbowcrr-sys/rbc-monorepo/blob/main/SPEC.en.md)）。
